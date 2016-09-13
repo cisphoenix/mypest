@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=v\ showState
+comment0.target=VirtualPestGUI(VirtualPest,\ boolean)
+comment0.text=Creates\ a\ new\ VirtualPestGUI\n@param\ v\ the\ virtual\ pest\ to\ inhabit\ the\ GUI\n@param\ showState\ whether\ or\ not\ to\ show\ the\ state\ of\ the\ pest\ *\n
+comment1.params=v
+comment1.target=VirtualPestGUI(VirtualPest)
+comment1.text=Creates\ a\ new\ VirtualPestGUI\ inhabited\ by\ the\ specified\nVirtualPest.\ \ The\ pest's\ state\ is\ explicitly\ shown.\n\n
+comment2.target=void\ scrollDown()
+comment3.target=void\ initComponents()
+comment4.params=evt
+comment4.target=void\ exitForm(WindowEvent)
+comment5.params=args
+comment5.target=void\ main([)
+numComments=6
